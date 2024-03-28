@@ -6665,7 +6665,7 @@ ul.widget_rss,ul.wp-block-rss,ol.widget_rss,ol.wp-block-rss {
 
 @media (max-width: 991px) {
     .header-layout3 .sticky-wrapper .menu-area {
-        padding:7px 0
+        padding:15px 0
     }
 }
 
@@ -6851,13 +6851,13 @@ ul.widget_rss,ul.wp-block-rss,ol.widget_rss,ol.wp-block-rss {
 
 @media (max-width: 1699px) {
     .header-layout3 .header-logo {
-        margin:-50px 0 0 0px
+        margin:-25px 0 0 0px
     }
 }
 
 @media (max-width: 767px) {
     .header-layout3 .header-logo {
-        margin:-30px 0 0 0px
+        margin:-25px 0 0 0px
     }
 }
 
@@ -6889,6 +6889,7 @@ ul.widget_rss,ul.wp-block-rss,ol.widget_rss,ol.wp-block-rss {
     background-color: var(--theme-color);
     border-radius: inherit;
     z-index: -1;
+    padding: 8rem;
 }
 
 @media (min-width: 2099px) {
